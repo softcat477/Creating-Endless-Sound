@@ -1,4 +1,4 @@
-# Creating-Endless-Sound
+# Creating-Endless-Sounds
 This repository implements [Creating Endless Sound](http://research.spa.aalto.fi/publications/papers/dafx18-endless/), and it is the final project for MUMT 501 Digital Audio Signal Processing. 
 
 ## Objective
